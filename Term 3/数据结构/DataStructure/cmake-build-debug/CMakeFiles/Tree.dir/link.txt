@@ -1,0 +1,1 @@
+/usr/bin/clang -g CMakeFiles/Tree.dir/BinTree/tree_child.c.o -o Tree 

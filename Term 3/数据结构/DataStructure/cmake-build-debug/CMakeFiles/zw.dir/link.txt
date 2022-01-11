@@ -1,0 +1,1 @@
+/usr/bin/clang -g CMakeFiles/zw.dir/BinTree/zw.c.o -o zw 

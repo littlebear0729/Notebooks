@@ -1,0 +1,1 @@
+/usr/bin/clang -g CMakeFiles/LinkList2.dir/List/llist2.c.o -o LinkList2 

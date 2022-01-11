@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DataStructure"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GraphPrim">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/GraphPrim" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 GraphPrim"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GraphPrim/fast">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/GraphPrim" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 GraphPrim/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Graph">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Graph" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 Graph"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Graph/fast">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Graph" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 Graph/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Dic">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Dic" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 Dic"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Dic/fast">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Dic" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 Dic/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GraphKruskal">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/GraphKruskal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 GraphKruskal"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GraphKruskal/fast">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/GraphKruskal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 GraphKruskal/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SeqList">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/SeqList" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 SeqList"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SeqList/fast">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/SeqList" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 SeqList/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LinkList">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/LinkList" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 LinkList"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LinkList/fast">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/LinkList" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 LinkList/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SeqQueue">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/SeqQueue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 SeqQueue"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SeqQueue/fast">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/SeqQueue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 SeqQueue/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BinTree">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/BinTree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 BinTree"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BinTree/fast">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/BinTree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 BinTree/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LinkList2">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/LinkList2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 LinkList2"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LinkList2/fast">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/LinkList2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 LinkList2/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Maze">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Maze" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 Maze"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Maze/fast">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Maze" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 Maze/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SeqString">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/SeqString" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 SeqString"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SeqString/fast">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/SeqString" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 SeqString/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SeqStack">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/SeqStack" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 SeqStack"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SeqStack/fast">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/SeqStack" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 SeqStack/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LinkStack">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/LinkStack" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 LinkStack"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LinkStack/fast">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/LinkStack" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 LinkStack/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tree">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Tree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tree"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tree/fast">
+				<Option output="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Tree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/littlebear/CLionProjects/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/clang/12.0.1/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tree/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/littlebear/CLionProjects/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/littlebear/CLionProjects/DataStructure/BinTree/huffman.c">
+			<Option target="BinTree"/>
+		</Unit>
+		<Unit filename="/home/littlebear/CLionProjects/DataStructure/BinTree/tree_child.c">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="/home/littlebear/CLionProjects/DataStructure/Dic/dic_hashopen.c">
+			<Option target="Dic"/>
+		</Unit>
+		<Unit filename="/home/littlebear/CLionProjects/DataStructure/Graph/graph_adjmat.c">
+			<Option target="Graph"/>
+		</Unit>
+		<Unit filename="/home/littlebear/CLionProjects/DataStructure/Graph/graph_kruskal.c">
+			<Option target="GraphKruskal"/>
+		</Unit>
+		<Unit filename="/home/littlebear/CLionProjects/DataStructure/Graph/graph_prim.c">
+			<Option target="GraphPrim"/>
+		</Unit>
+		<Unit filename="/home/littlebear/CLionProjects/DataStructure/List/llist.c">
+			<Option target="LinkList"/>
+		</Unit>
+		<Unit filename="/home/littlebear/CLionProjects/DataStructure/List/llist.h">
+			<Option target="LinkList"/>
+		</Unit>
+		<Unit filename="/home/littlebear/CLionProjects/DataStructure/List/llist2.c">
+			<Option target="LinkList2"/>
+		</Unit>
+		<Unit filename="/home/littlebear/CLionProjects/DataStructure/List/seqstring.c">
+			<Option target="SeqString"/>
+		</Unit>
+		<Unit filename="/home/littlebear/CLionProjects/DataStructure/List/slist.c">
+			<Option target="SeqList"/>
+		</Unit>
+		<Unit filename="/home/littlebear/CLionProjects/DataStructure/List/slist.h">
+			<Option target="SeqList"/>
+		</Unit>
+		<Unit filename="/home/littlebear/CLionProjects/DataStructure/Queue/squeue.c">
+			<Option target="SeqQueue"/>
+		</Unit>
+		<Unit filename="/home/littlebear/CLionProjects/DataStructure/Queue/squeue.h">
+			<Option target="SeqQueue"/>
+		</Unit>
+		<Unit filename="/home/littlebear/CLionProjects/DataStructure/Stack/lstack.c">
+			<Option target="LinkStack"/>
+		</Unit>
+		<Unit filename="/home/littlebear/CLionProjects/DataStructure/Stack/lstack.h">
+			<Option target="LinkStack"/>
+		</Unit>
+		<Unit filename="/home/littlebear/CLionProjects/DataStructure/Stack/maze.c">
+			<Option target="Maze"/>
+		</Unit>
+		<Unit filename="/home/littlebear/CLionProjects/DataStructure/Stack/sstack.c">
+			<Option target="SeqStack"/>
+		</Unit>
+		<Unit filename="/home/littlebear/CLionProjects/DataStructure/Stack/sstack.h">
+			<Option target="SeqStack"/>
+		</Unit>
+		<Unit filename="/home/littlebear/CLionProjects/DataStructure/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

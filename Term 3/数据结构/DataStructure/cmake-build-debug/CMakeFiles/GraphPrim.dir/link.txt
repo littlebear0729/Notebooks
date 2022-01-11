@@ -1,0 +1,1 @@
+/usr/bin/clang -g CMakeFiles/GraphPrim.dir/Graph/graph_prim.c.o -o GraphPrim 

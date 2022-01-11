@@ -1,0 +1,1 @@
+/usr/bin/clang -g CMakeFiles/SeqStack.dir/Stack/sstack.c.o -o SeqStack 

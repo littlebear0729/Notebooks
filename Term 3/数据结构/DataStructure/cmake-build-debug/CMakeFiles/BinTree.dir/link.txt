@@ -1,0 +1,1 @@
+/usr/bin/clang -g CMakeFiles/BinTree.dir/BinTree/huffman.c.o -o BinTree 

@@ -1,0 +1,1 @@
+/usr/bin/clang -g CMakeFiles/Graph.dir/Graph/graph_adjmat.c.o -o Graph 

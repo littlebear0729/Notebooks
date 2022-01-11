@@ -1,0 +1,1 @@
+/usr/bin/clang -g CMakeFiles/SeqList.dir/List/slist.c.o -o SeqList 

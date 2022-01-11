@@ -1,0 +1,1 @@
+/usr/bin/clang -g CMakeFiles/SeqQueue.dir/Queue/squeue.c.o -o SeqQueue 

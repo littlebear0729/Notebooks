@@ -1,0 +1,1 @@
+/usr/bin/clang -g CMakeFiles/Dic.dir/Dic/dic_hashopen.c.o -o Dic 

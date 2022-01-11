@@ -1,0 +1,1 @@
+/usr/bin/clang -g CMakeFiles/Maze.dir/Stack/maze.c.o -o Maze 

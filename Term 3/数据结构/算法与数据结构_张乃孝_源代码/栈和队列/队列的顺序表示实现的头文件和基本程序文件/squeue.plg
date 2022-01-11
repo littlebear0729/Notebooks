@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: squeue - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPD62B.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/squeue.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"G:\数据结构课件\算法与数据结构_张乃孝_源代码\栈和队列\队列的顺序表示实现的头文件和基本程序文件\squeue.c"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPD62B.tmp" 
+<h3>Output Window</h3>
+Compiling...
+squeue.c
+g:\数据结构课件\算法与数据结构_张乃孝_源代码\栈和队列\队列的顺序表示实现的头文件和基本程序文件\squeue.c(59) : error C2039: 'top' : is not a member of 'SeqQueue'
+        g:\数据结构课件\算法与数据结构_张乃孝_源代码\栈和队列\队列的顺序表示实现的头文件和基本程序文件\squeue.h(6) : see declaration of 'SeqQueue'
+g:\数据结构课件\算法与数据结构_张乃孝_源代码\栈和队列\队列的顺序表示实现的头文件和基本程序文件\squeue.c(76) : error C2146: syntax error : missing ';' before identifier 'n'
+g:\数据结构课件\算法与数据结构_张乃孝_源代码\栈和队列\队列的顺序表示实现的头文件和基本程序文件\squeue.c(76) : error C2143: syntax error : missing ')' before 'type'
+g:\数据结构课件\算法与数据结构_张乃孝_源代码\栈和队列\队列的顺序表示实现的头文件和基本程序文件\squeue.c(76) : error C2198: 'conversion' : too few actual parameters
+g:\数据结构课件\算法与数据结构_张乃孝_源代码\栈和队列\队列的顺序表示实现的头文件和基本程序文件\squeue.c(76) : error C2059: syntax error : ')'
+执行 cl.exe 时出错.
+
+
+
+<h3>Results</h3>
+squeue.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

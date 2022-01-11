@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/littlebear/CLionProjects/DataStructure/Graph/graph_adjmat.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+
